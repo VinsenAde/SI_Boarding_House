@@ -1,5 +1,5 @@
 WELCOME TO KOST ABLE REPOSITORY!
-CONTRIBUTOR :
+CONTRIBUTOR : <br>
 Aminy Ghaisan N. / 03 (2141720163) <br>
 Faizal Leviansyah / 06 (2141720246) <br>
 Faricha Aulia / 08 (2141720155) <br>
