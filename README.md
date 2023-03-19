@@ -1,11 +1,11 @@
 WELCOME TO KOST ABLE REPOSITORY!
 CONTRIBUTOR :
-Aminy Ghaisan N. / 03 (2141720163)
-Faizal Leviansyah / 06 (2141720246)
-Faricha Aulia / 08 (2141720155)
-Saefulloh Fatah P.K. / 23 (2141720067)
-Satria Pangestu A. / 24 (2141720161)
-Vinsensius Ade W. / 28 (2141720165)
+Aminy Ghaisan N. / 03 (2141720163) <br>
+Faizal Leviansyah / 06 (2141720246) <br>
+Faricha Aulia / 08 (2141720155) <br>
+Saefulloh Fatah P.K. / 23 (2141720067) <br>
+Satria Pangestu A. / 24 (2141720161) <br>
+Vinsensius Ade W. / 28 (2141720165) <br>
 
 PREVIEW:
 
